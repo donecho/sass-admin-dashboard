@@ -71,3 +71,20 @@ export default defineConfig([
   },
 ])
 ```
+# SaaS Admin Dashboard
+
+Responsive admin dashboard built using React, TypeScript & TailwindCSS.
+
+## Features
+- Responsive layout
+- Dark mode
+- Charts & analytics
+- User management
+- Toast notifications
+
+## Tech Stack
+React + Vite
+TypeScript
+TailwindCSS
+Recharts
+
